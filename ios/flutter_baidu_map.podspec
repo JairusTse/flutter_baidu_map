@@ -1,9 +1,6 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
-
-use_frameworks!
-
 Pod::Spec.new do |s|
   s.name             = 'flutter_baidu_map'
   s.version          = '0.0.1'
